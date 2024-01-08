@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ayTRoFfKIrMuH/buhL7uSlzCZ1+WTp0wfJ+/i1FMiPs6WuicfA3pUEiCAAsLiE1VuVYgdUtiRE4W4zwamuoZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mistr\\Desktop\\Inclass\\InClass3_RM\\InClass3RM\\InClass3RM\\InClass3RM\\InClass3RM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mistr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,132 @@
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\bin\Debug\net6.0\appsettings.json
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.staticwebassets.runtime.json
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.exe
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.deps.json
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.runtimeconfig.json
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.dll
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.pdb
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.AssemblyInfoInputs.cache
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.AssemblyInfo.cs
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.RazorAssemblyInfo.cache
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.RazorAssemblyInfo.cs
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.InClass3RM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.build.InClass3RM.props
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InClass3RM.props
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InClass3RM.props
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\bundle\InClass3RM.styles.css
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\projectbundle\InClass3RM.bundle.scp.css
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.dll
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\refint\InClass3RM.dll
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.pdb
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.genruntimeconfig.cache
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\ref\InClass3RM.dll
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\InClass3_RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.CopyComplete
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\appsettings.json
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.staticwebassets.runtime.json
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.exe
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.deps.json
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.runtimeconfig.json
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.dll
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.pdb
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.AssemblyInfoInputs.cache
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.AssemblyInfo.cs
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.RazorAssemblyInfo.cache
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.RazorAssemblyInfo.cs
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.InClass3RM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.build.InClass3RM.props
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InClass3RM.props
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InClass3RM.props
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\bundle\InClass3RM.styles.css
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\projectbundle\InClass3RM.bundle.scp.css
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.CopyComplete
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.dll
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\refint\InClass3RM.dll
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.pdb
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.genruntimeconfig.cache
+C:\Users\mistr\Desktop\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\ref\InClass3RM.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\appsettings.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.staticwebassets.runtime.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.exe
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.deps.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.runtimeconfig.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.pdb
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.AssemblyInfoInputs.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.AssemblyInfo.cs
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.RazorAssemblyInfo.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.RazorAssemblyInfo.cs
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.InClass3RM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.build.InClass3RM.props
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InClass3RM.props
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InClass3RM.props
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\bundle\InClass3RM.styles.css
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\projectbundle\InClass3RM.bundle.scp.css
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.CopyComplete
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\refint\InClass3RM.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.pdb
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.genruntimeconfig.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\ref\InClass3RM.dll
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\appsettings.json
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.staticwebassets.runtime.json
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.exe
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.deps.json
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.runtimeconfig.json
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.dll
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\InClass3RM.pdb
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.AssemblyInfoInputs.cache
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.AssemblyInfo.cs
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.RazorAssemblyInfo.cache
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.RazorAssemblyInfo.cs
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.InClass3RM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.build.InClass3RM.props
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InClass3RM.props
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InClass3RM.props
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\bundle\InClass3RM.styles.css
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\scopedcss\projectbundle\InClass3RM.bundle.scp.css
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.csproj.CopyComplete
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.dll
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\refint\InClass3RM.dll
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.pdb
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\InClass3RM.genruntimeconfig.cache
+C:\Users\mistr\Desktop\Inclass\InClass3_RM\InClass3RM\InClass3RM\InClass3RM\obj\Debug\net6.0\ref\InClass3RM.dll
